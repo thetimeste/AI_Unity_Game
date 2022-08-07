@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4edad4e0b32276b458c734d9de98a5c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - personPrefab: {instanceID: 0}
+  - mainCanvas: {instanceID: 0}
+  - TimerGO: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
